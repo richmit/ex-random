@@ -1,0 +1,66 @@
+GFORTRAN module version '9' created from ranlibM.f90
+MD5:c54e97b29fe80512e1100a8156efa82e -- If you edit this, you'll get what you deserve.
+
+(() () () () () () () () () () () () () () () () () () () () () () () ()
+() () ())
+
+()
+
+()
+
+()
+
+()
+
+()
+
+(2 'gennor' 'ranlibm' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC BODY
+UNKNOWN 0 0 EXTERNAL FUNCTION) (REAL 4 0 0 0 REAL ()) 3 0 (4 5) () 2 ()
+() () 0 0)
+6 'getcgn' 'ranlibm' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC BODY
+UNKNOWN 0 0 EXTERNAL SUBROUTINE) (UNKNOWN 0 0 0 0 UNKNOWN ()) 7 0 (8) ()
+0 () () () 0 0)
+9 'getsd' 'ranlibm' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC BODY
+UNKNOWN 0 0 EXTERNAL SUBROUTINE) (UNKNOWN 0 0 0 0 UNKNOWN ()) 10 0 (11
+12) () 0 () () () 0 0)
+13 'ignlgi' 'ranlibm' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC BODY
+UNKNOWN 0 0 EXTERNAL FUNCTION) (INTEGER 4 0 0 0 INTEGER ()) 14 0 () ()
+13 () () () 0 0)
+15 'ranf' 'ranlibm' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC BODY
+UNKNOWN 0 0 EXTERNAL FUNCTION) (REAL 4 0 0 0 REAL ()) 16 0 () () 15 () ()
+() 0 0)
+17 'ranlibm' 'ranlibm' '' 1 ((MODULE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0) (UNKNOWN 0 0 0 0 UNKNOWN ()) 0 0 () () 0 () () () 0 0)
+18 'setall' 'ranlibm' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC BODY
+UNKNOWN 0 0 EXTERNAL SUBROUTINE) (UNKNOWN 0 0 0 0 UNKNOWN ()) 19 0 (20
+21) () 0 () () () 0 0)
+22 'setcgn' 'ranlibm' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC BODY
+UNKNOWN 0 0 EXTERNAL SUBROUTINE) (UNKNOWN 0 0 0 0 UNKNOWN ()) 23 0 (24)
+() 0 () () () 0 0)
+25 'setsd' 'ranlibm' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC BODY
+UNKNOWN 0 0 EXTERNAL SUBROUTINE) (UNKNOWN 0 0 0 0 UNKNOWN ()) 26 0 (27
+28) () 0 () () () 0 0)
+4 'm' '' '' 3 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY) (
+REAL 4 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+5 'sd' '' '' 3 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY) (
+REAL 4 0 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+20 'seed1' '' '' 19 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+21 'seed2' '' '' 19 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+27 'seed1' '' '' 26 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+28 'seed2' '' '' 26 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+11 'seed1' '' '' 10 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+12 'seed2' '' '' 10 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+24 'g' '' '' 23 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY) (
+INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+8 'g' '' '' 7 ((VARIABLE OUT UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY) (
+INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+)
+
+('gennor' 0 2 'getcgn' 0 6 'getsd' 0 9 'ignlgi' 0 13 'ranf' 0 15 'ranlibm'
+0 17 'setall' 0 18 'setcgn' 0 22 'setsd' 0 25)
